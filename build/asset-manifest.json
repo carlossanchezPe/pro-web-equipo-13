@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pro-web-equipo-13/build/static/css/main.18922b94.css",
+    "main.js": "/pro-web-equipo-13/build/static/js/main.3a8a97dd.js",
+    "static/js/787.b8f01768.chunk.js": "/pro-web-equipo-13/build/static/js/787.b8f01768.chunk.js",
+    "static/media/bannertec.jpg": "/pro-web-equipo-13/build/static/media/bannertec.b5ce533abe2cfd32691b.jpg",
+    "index.html": "/pro-web-equipo-13/build/index.html",
+    "main.18922b94.css.map": "/pro-web-equipo-13/build/static/css/main.18922b94.css.map",
+    "main.3a8a97dd.js.map": "/pro-web-equipo-13/build/static/js/main.3a8a97dd.js.map",
+    "787.b8f01768.chunk.js.map": "/pro-web-equipo-13/build/static/js/787.b8f01768.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18922b94.css",
+    "static/js/main.3a8a97dd.js"
+  ]
+}
